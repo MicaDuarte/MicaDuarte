@@ -1,16 +1,27 @@
-## Hi there 👋
+# Mica Duarte
 
-<!--
-**MicaDuarte/MicaDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Mica Duarte, desarrolladora apasionada por la tecnología y la innovación.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Proyectos Destacados
+
+### Pipis E-commerce
+![Pipis E-commerce](https://via.placeholder.com/1100x400)
+Plataforma de comercio electrónico desarrollada con React y Spring Boot. Incluye funcionalidades como carrito, favoritos y modo oscuro.
+
+### Sistema de Rastreos de Camiones
+![Sistema de Rastreos de Camiones](https://via.placeholder.com/1100x400)
+Sistema diseñado para monitorear entregas y optimizar rutas utilizando SQL Server y JavaScript puro para interfaces dinámicas.
+
+---
+
+## 📬 Contacto
+
+- **Email**: [micaduarte@gmail.com](mailto:micaduarte@gmail.com)
+- **LinkedIn**: [linkedin.com/in/micaduarte](https://www.linkedin.com/in/micaduarte)
+- **Portafolio**: [micaduarte.dev](https://micaduarte.dev)
+
+---
+
+⭐️ **Explora más sobre mis proyectos y trabajo en mi perfil de GitHub!**
