@@ -10,13 +10,10 @@
 ¡Hola! Soy Mica Duarte, soy un poco de todo o mejor dicho full stack con mas de 3 años de experiencia solida. Me certifique en tecnica developer y estoy en proceso de convertirme en una ingeniera✨.
 
 ---
-<div style="display:flex; width:100vw;justify-content:center;aling-items:center;">
 
-<div style="width:50vw;">
 ![Metrica de lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MicaDuarte&layout=compact&theme=radical)
 
-</div>
-<div style="width:50vw;"> 
+
 ### Lenguajes y Tecnologías
 <div>
 <img src="assets/js.gif" style="width:80px;heigth:80px;"/>
@@ -27,9 +24,7 @@
 <img src="assets/angular.gif" style="width:80px;heigth:80px;"/>
 </div>
 
-</div>
 
-</div>
 
 ## 🌟 Proyectos Destacados
 
