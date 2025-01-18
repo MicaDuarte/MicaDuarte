@@ -41,7 +41,7 @@
 ## 🌟 Proyectos Destacados
 
 ### Pipis E-commerce
-![camiON](assets/camion.png)
+![camiON](assets/pipis.png)
 
 Pipis E-commerce es una plataforma de comercio electrónico diseñada para ofrecer una experiencia de compra intuitiva y moderna. Este proyecto combina un frontend dinámico con un backend robusto, integrando funcionalidades clave tanto para usuarios como para la gestión del negocio.
 
@@ -65,7 +65,7 @@ Este proyecto refleja un enfoque híbrido que equilibra simplicidad y funcionali
 
 
 ## Sistema de Rastreos de Camiones
-![camiON](assets/camion.png)
+![camiON](assets/camionn.png)
 Este sistema fue diseñado para monitorear entregas en tiempo real y optimizar rutas de distribución, proporcionando una interfaz dinámica e intuitiva.
 
 #### Características principales:
