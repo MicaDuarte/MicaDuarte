@@ -65,7 +65,9 @@ Este proyecto refleja un enfoque híbrido que equilibra simplicidad y funcionali
 
 
 ## Sistema de Rastreos de Camiones
-![camiON](assets/camionn.png)
+<div>
+<img src="assets/camionn.png" style="width:60px; heigth:60px;"/>
+</div>
 Este sistema fue diseñado para monitorear entregas en tiempo real y optimizar rutas de distribución, proporcionando una interfaz dinámica e intuitiva.
 
 #### Características principales:
