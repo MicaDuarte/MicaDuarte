@@ -9,6 +9,10 @@
 Hello! I am Mica Duarte, I am a little bit of everything or rather full stack with more than 3 years of solid experience. I got certified in developer technique and I am in the process of becoming an engineer✨.
 
 ---
+
+
+```javascript
+
 const Mica = {
   pronouns: "she" | "her",
   code: ["Javascript", "Typescript", "HTML", "CSS", "Ruby", "Python", "Java"],
@@ -29,6 +33,6 @@ const Mica = {
   },
   funFact: "I started coding by customizing video game mods!",
 };
-
+```
 
 ⭐️ 
