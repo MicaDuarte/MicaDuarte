@@ -6,7 +6,7 @@
 </div>
 
 # Mica Duarte 🇦🇷
-Hello! I am Mica Duarte, I am a little bit of everything or rather full stack with more than 3 years of solid experience. I got certified in developer technique and I am in the process of becoming an engineer✨.
+Hello! I am Mica Duarte, I am a little bit of everything or rather full stack with more than 36 years of solid experience. I got certified in developer technique and I am in the process of becoming an engineer✨.
 
 ---
 
